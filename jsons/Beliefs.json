@@ -45,7 +45,7 @@
      "type": "Pantheon",
      "uniques": [
                 "[+1 Science] from every [Agnostic]", 
-                "[1 Faith] from every [Scientist] <in cities with a [Sage's Lodge]>",
+                "[+1 Faith] from every [Scientist] <in cities with a [Sage's Lodge]>",
 //This is roundabout, but since this doesn't have a cityFilter it's the only way to get the desired behavior 
 //Note that it is NOT a *+*1 entirely deliberately
                 "May buy [Sage's Lodge] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
@@ -805,7 +805,7 @@
      "type": "Enhancer",
      "uniques": [
                 "[+1 Science] from every [Agnostic]", 
-                "[1 Faith] from every [Scientist] <in cities with a [Sage's Lodge]>",
+                "[+1 Faith] from every [Scientist] <in cities with a [Sage's Lodge]>",
 //again, not a +1 *on purpose*
 //This *should* ensure that Scientists only generate 1 faith even if you double up on this 
                 "May buy [Sage's Lodge] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
